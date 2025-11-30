@@ -72,10 +72,12 @@ const CanvasContent = () => {
                 nodeTypes={nodeTypes}
                 onDragOver={onDragOver}
                 onDrop={onDrop}
+                deleteKeyCode="Delete"
+                multiSelectionKeyCode="Shift"
                 fitView
             >
                 <Background />
-                <Controls />
+                <Controls showInteractive={false} />
             </ReactFlow>
         </div>
     );
