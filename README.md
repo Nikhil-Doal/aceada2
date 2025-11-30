@@ -4,7 +4,7 @@ A beautiful, modern workflow builder powered by React Flow and Google's Gemini A
 
 ## 🌟 Live Demo
 
-**Try it now**: [[https://aceflowdeploy.vercel.app/](https://aceflowdeploy.vercel.app/)]
+**Try it now**: [[https://ace-flow.vercel.app/](https://ace-flow.vercel.app/)]
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
